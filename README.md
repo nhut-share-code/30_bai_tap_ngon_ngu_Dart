@@ -1,16 +1,28 @@
-Hướng dẫn cách sử dụng:
-Chọn vào thư mục bin, nhấn vào copy path:
-![alt](https://github.com/nhut-py/30_bai_tap_dart/blob/main/img/1.png)
-Sao đó nhập vào teminal lệnh:
-![alt](https://github.com/nhut-py/30_bai_tap_dart/blob/main/img/2.png)
-Rồi chạy file chính
-![alt](https://github.com/nhut-py/30_bai_tap_dart/blob/main/img/3.png)
-Danh sách các bài tập:
+# Hướng dẫn cách sử dụng
 
-Bài tập 1: Viết chương trình hỏi người dùng họ tên và tuổi (là một số nguyên). 
-Tính và in ra màn hình còn bao nhiêu năm nữa thì người đó mừng thọ 100 tuổi.
+## Bước 1: Sao chép đường dẫn thư mục bin
+1. Chọn vào thư mục bin trong dự án của bạn.
+2. Nhấn chuột phải và chọn "Copy path" để sao chép đường dẫn.
 
-Bài tập 2: Viết chương trình cho phép nhập vào số nguyên, và kiểm tra tính chẵn lẻ.
+![Sao chép đường dẫn thư mục bin](https://github.com/nhut-py/30_bai_tap_dart/blob/main/img/1.png)
+
+## Bước 2: Nhập đường dẫn vào terminal lệnh
+1. Mở terminal trên máy tính của bạn.
+2. Dán đường dẫn vào terminal bằng cách nhấn chuột phải và chọn "Paste", sau đó nhấn Enter.
+
+![Nhập đường dẫn vào terminal](https://github.com/nhut-py/30_bai_tap_dart/blob/main/img/2.png)
+
+## Bước 3: Chạy file chính
+1. Sau khi nhập đường dẫn vào terminal, nhấn Enter để di chuyển đến thư mục bin.
+2. Chạy file chính bằng cách nhập tên file và nhấn Enter.
+
+![Chạy file chính](https://github.com/nhut-py/30_bai_tap_dart/blob/main/img/3.png)
+
+## Danh sách các bài tập
+Dưới đây là danh sách các bài tập có trong dự án:
+
+1. Bài tập 1: Viết chương trình hỏi người dùng họ tên và tuổi.
+2. Bài tập 2: Viết chương trình kiểm tra tính chẵn lẻ của một số nguyên.
 
 Bài tập 3: In ra màn hình các số nguyên dương lẻ nhỏ hơn n.
 
