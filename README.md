@@ -4,18 +4,18 @@
 1. Chọn vào thư mục bin trong dự án của bạn.
 2. Nhấn chuột phải và chọn "Copy path" để sao chép đường dẫn.
 
-![Sao chép đường dẫn thư mục bin](https://github.com/nhut-py/30_bai_tap_dart/blob/main/img/1.png)
+![Sao chép đường dẫn thư mục bin](https://github.com/nhut-py/Bai_tap_dart/blob/main/img/1.png)
 
 ## Bước 2: Nhập đường dẫn vào terminal lệnh
 1. Mở terminal trên máy tính của bạn.
 2. Dán đường dẫn vào terminal bằng cách nhấn chuột phải và chọn "Paste", sau đó nhấn Enter.
 
-![Nhập đường dẫn vào terminal](https://github.com/nhut-py/30_bai_tap_dart/blob/main/img/2.png)
+![Nhập đường dẫn vào terminal](https://github.com/nhut-py/Bai_tap_dart/blob/main/img/2.png)
 
 ## Bước 3: Chạy file chính
 1. Sau khi nhập đường dẫn vào terminal, nhấn Enter để di chuyển đến thư mục bin.
 2. Chạy file chính bằng cách nhập tên file và nhấn Enter.
-![Chạy file chính](https://github.com/nhut-py/30_bai_tap_dart/blob/main/img/3.png)
+![Chạy file chính](https://github.com/nhut-py/Bai_tap_dart/blob/main/img/3.png)
 ## Danh sách các bài tập
 Dưới đây là danh sách các bài tập có trong dự án:
 
