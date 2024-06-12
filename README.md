@@ -4,7 +4,7 @@
 1. Chọn vào thư mục bin trong dự án của bạn.
 2. Nhấn chuột phải và chọn "Copy path" để sao chép đường dẫn.
 
-![Sao chép đường dẫn thư mục bin](https://github.com/nhut-py/Bai_tap_dart/blob/main/img/1.png)
+![Sao chép đường dẫn thư mục bin](https://github.com/nhut-share-code/Bai_tap_ngon_ngu_Dart/blob/main/img/1.png)
 
 ## Bước 2: Nhập đường dẫn vào terminal lệnh
 1. Mở terminal trên máy tính của bạn.
